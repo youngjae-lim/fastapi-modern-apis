@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+black
+httpx
+jinja2
+aiofiles
+requests

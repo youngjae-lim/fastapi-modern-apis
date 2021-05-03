@@ -1,0 +1,8 @@
+fastapi
+black
+requests
+bs4
+colorama
+httpx
+python-dateutil
+pydantic
